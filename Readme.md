@@ -11,7 +11,7 @@ A. Required Elements
   - I allow a maximum tilt of about 22 degrees
 
 B. Additional elements
-  - I added wood grain textures to the platform and the walls. See external resources for my sources
+  - I added wood grain textures to the platform and the walls. See `D. External resources` for my sources
   - I changed the emission settings for the particle emitter to make it appear as if it always emits upward
   - I added a bump sound whenever the ball collides with a wall, I figured out how to do this through the Unity audio docs
     * I created the bump sound myself by knocking against my desk and recording it with my phone
