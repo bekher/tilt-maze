@@ -23,3 +23,5 @@ D. External resources
   - I used two wood textures from the following sources:
     * http://www.photoshopbuzz.com/wp-content/uploads/2013/06/woodtexture7.jpg
     * http://www.designbolts.com/wp-content/uploads/2013/02/Free-Seamless-Wood-Textures-Patterns-For-3D-Mapping-2.jpg
+  - I adapted code from this answer to move the ball when the user reaches the goal
+    * http://answers.unity3d.com/questions/570573/how-do-i-slowly-translate-a-object-to-a-other-obje.html
