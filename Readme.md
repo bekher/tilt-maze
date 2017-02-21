@@ -31,8 +31,11 @@ C. Known Issues
   - None
 
 D. External resources
+  - Unity documentation 
+  - MSDN documentation for C#
   - ( Part 2)
-  - 
+  - Some help with rotation from this forum post (wall.cs): http://answers.unity3d.com/questions/1093355/rotate-object-smoothly-over-time-when-key-pressed.html
+  - Getting the bounds size (tilt.cs): http://answers.unity3d.com/questions/24012/find-size-of-gameobject.html
   - ( Part 1)
   - I used two wood textures from the following sources:
     * http://www.photoshopbuzz.com/wp-content/uploads/2013/06/woodtexture7.jpg
